@@ -7,4 +7,6 @@
     <item name="password_edittext" type="id" />
     <item name="confirm_password_edittext" type="id" />
     <item name="toolbar" type="id" />
+    <item name="login_button" type="id" />
+    <item name="forgot_password_button" type="id" />
 </resources>
